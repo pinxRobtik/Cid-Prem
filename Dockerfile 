@@ -1,6 +1,6 @@
 ######## Reza #######
 
-FROM pinxRobtik/Cid-Prem:main
+FROM pinxRobtik/Cid-Prem:cid
 
 
 COPY installer.sh .
